@@ -1,0 +1,16 @@
+{
+    "name": "noop-promise",
+    "version": "0.0.1",
+    "description": "Promise for noop",
+    "keywords": [
+        "noop",
+        "noop-promise",
+        "noop fn",
+        "noop function",
+        "noop import",
+        "noop export"
+    ],
+    "main": "index.js",
+    "author": "joenix",
+    "license": "MIT"
+}
